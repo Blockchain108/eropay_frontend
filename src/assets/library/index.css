@@ -1,0 +1,71 @@
+.payment-method-img {
+  width: 65px;
+  height: 35px;
+  padding: 6px 13px;
+  border-radius: 2px;
+  border: solid 2px #f6f9fa;
+  visibility: visible;
+}
+
+.dropdown-menu-currency {
+  position: absolute;
+  will-change: transform;
+  top: 0px;
+  left: 0px;
+  -webkit-transform: translate3d(0px, 33px, 0px);
+          transform: translate3d(0px, 33px, 0px);
+  height: 290px;
+  overflow-y: scroll;
+}
+
+.icon-filter {
+  height: 32px;
+  width: 32px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  text-align: center;
+  border-radius: 21px;
+  color: #fff;
+  font-family: Roboto;
+  font-weight: 500;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.font-Montserrat {
+  font-family: Montserrat !important;
+}
+
+.font-weight-200 {
+  font-weight: 200 !important;
+}
+
+.font-weight-300 {
+  font-weight: 300 !important;
+}
+
+.home-btn {
+  background-color: #08cb77 !important;
+  border: none;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.input-group-seamless .input-group-append, .input-group-seamless .input-group-prepend {
+  width: 50px;
+}
+
+.loader {
+  width: 100% !important;
+  height: 100% !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  -webkit-backdrop-filter: blur(1px);
+          backdrop-filter: blur(1px);
+}
+/*# sourceMappingURL=index.css.map */

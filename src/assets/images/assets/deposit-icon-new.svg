@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Artboard Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2.44827586,9 C2.44827586,12.0661326 4.93386742,14.5517241 8,14.5517241 C10.9894793,14.5517241 13.4270817,12.1888587 13.5470934,9.22884166 L13.5517241,9 L15,9 C15,12.8659932 11.8659932,16 8,16 C4.21626193,16 1.13369335,12.9979365 1.0042331,9.24574829 L1,9 L2.44827586,9 Z" id="Path" fill-opacity="0.5" fill="#00ABFF" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#00ABFF" x="7.25" y="1" width="1.5" height="9"></rect>
+        <polygon id="Path" fill="#00ABFF" fill-rule="nonzero" transform="translate(8.001236, 7.666667) rotate(135.000000) translate(-8.001236, -7.666667) " points="10.6679028 5 10.6679028 10.3333333 9.27659849 10.3333333 9.27649725 6.39047131 5.3345695 6.39130435 5.3345695 5"></polygon>
+    </g>
+</svg>

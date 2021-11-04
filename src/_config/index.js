@@ -1,5 +1,5 @@
 module.exports = {
-    apiUrl: "https://wallet.eropay.com",
+    apiUrl: "http://47.245.62.192:5000",
     // apiUrl: "http://localhost:3333",
     tokenKey: 'wallet.eropay.token',
     createdBalance: '100000000',
